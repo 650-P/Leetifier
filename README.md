@@ -1,3 +1,4 @@
+You may edit the dict to add your own 1337code translation
 ```
 usage: leetifier.py [-h] [-i INFILE] [-o OUTFILE] [-r REPEAT] [plaintext]
 
